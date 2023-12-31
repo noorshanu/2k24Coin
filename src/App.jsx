@@ -6,7 +6,8 @@ import JoinCommunity from "sections/JoinCommunity";
 // import Product from "sections/Product";
 import Roadmap from "sections/Roadmap";
 import VideoHero from "sections/VideoHero";
-// import Tokenomics from "sections/Tokenomics";
+import Tokenomics from "sections/Tokenomics";
+import Team from "sections/Team";
 
 function App() {
   return (
@@ -41,9 +42,10 @@ function App() {
           <Roadmap />
         </div>
 
-        {/* <div className="mb-14 lg:mb-20" id="tokenomics">
+         <div className="mb-14 lg:mb-20" id="tokenomics">
           <Tokenomics />
         </div>
+        {/*
         <div className="mb-14 lg:mb-20" id="tokenomics">
           <Product />
         </div>
@@ -53,6 +55,7 @@ function App() {
         <div className="mb-20">
           <FeaturedOn />
         </div> */}
+        <Team/>
       </main>
 
       <div id="contact">
