@@ -9,8 +9,8 @@ function Team() {
           Meet Team
         </Title>
 
-        <div className="flex justify-evenly flex-col sm:flex-row">
-          <div className=" text-center">
+        <div className="flex justify-evenly flex-col sm:flex-row mx-auto">
+          <div className=" text-center mx-auto">
             <img
               src="images/team/team1.JPG"
               alt=""
@@ -20,17 +20,17 @@ function Team() {
             <p className=" text-base">(Deving Cat )</p>
           </div>
 
-          <div className=" text-center">
+          <div className=" text-center mx-auto">
             <img
               src="images/team/team2.JPG"
               alt=""
-              className="h-[300px] border-4 border-[#f4382d] rounded-md"
+              className="h-[300px] border-4 border-[#f4382d] rounded-md mx-auto"
             />
             <h3 className=" font-onep text-lg mt-2">ZoroinBoots   </h3>
             <p className=" text-base">(Marketoor )</p>
           </div>
 
-          <div className="text-center">
+          <div className="text-center mx-auto">
             <img
               src="images/team/team3.JPG"
               alt=""
