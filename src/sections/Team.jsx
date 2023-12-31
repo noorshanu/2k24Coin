@@ -12,10 +12,10 @@ function Team() {
    
 
       <div className="flex justify-evenly flex-col sm:flex-row">
-       <img src="images/team/team1.webp" alt="" className='h-[300px]' />
-       <img src="images/team/team2.webp" alt=""  className='h-[300px]' />
-       <img src="images/team/team3.webp" alt=""  className='h-[300px]' />
-       <img src="images/team/team4.webp" alt="" className='h-[300px]'  />
+       <img src="images/team/team1.JPG" alt="" className='h-[300px] border-4 border-[#f4382d] rounded-md' />
+       <img src="images/team/team2.JPG" alt=""  className='h-[300px] border-4 border-[#f4382d] rounded-md' />
+       <img src="images/team/team3.JPG" alt=""  className='h-[300px] border-4 border-[#f4382d] rounded-md' />
+      
      
       </div>
     </div>
