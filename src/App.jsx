@@ -19,7 +19,7 @@ function App() {
           </div>
 
           <div className=" ">
-          <section className="section">
+          {/* <section className="section">
             <span className="span"></span>
             <span className="span"></span>
             <span className="span"></span>
@@ -30,11 +30,11 @@ function App() {
             <span className="span"></span>
             <span className="span"></span>
             <span className="span"></span>
-        </section>
-            {/* <Hero /> */}
+        </section> */}
+            <Hero />
           </div>
         </div>
-<VideoHero/>
+{/* <VideoHero/> */}
         <div className="" id="about">
           <About />
         </div>

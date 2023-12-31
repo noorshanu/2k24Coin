@@ -16,17 +16,13 @@ function About() {
           <img src="images/cat.JPG" alt="" className=" h-[350px] rounded-md border-4 border-[#f4382d]" />
 
           <div>
-          <p className=" max-w-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Consequatur magnam repellat id molestiae blanditiis, quas
-            provident, possimus voluptates vitae, velit dolores eius
-            cupiditate atque itaque tempore quos ratione in fuga!
+            <h2 className=" font-onep text-2xl mb-3 " >Neko 2024 is your New Year Cat</h2>
+          <p className=" max-w-xl mb-2 text-lg">
+          It's a concept that we invented as a team to bring prosperity and joy to our holders.
+Starting the date of launch, our team is counting on tackling diverse marketing aspects to make Neko a sweet loving brand in web3
           </p>
-          <p className=" max-w-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Consequatur magnam repellat id molestiae blanditiis, quas
-            provident, possimus voluptates vitae, velit dolores eius
-            cupiditate atque itaque tempore quos ratione in fuga!
+          <p className=" max-w-xl text-lg">
+          We are forever be grateful for your support to us, and a Happy New Year !❤!
           </p>
           </div>
      

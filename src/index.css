@@ -323,3 +323,9 @@ transform: scale(0.65);
   border: 1px solid black;
   color: black;
 }
+
+.bg-main{
+  background-image: url('../public/images/hero-main.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
