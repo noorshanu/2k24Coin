@@ -53,7 +53,7 @@ function Roadmap() {
             </p>
             </div>
          
-            <img src="images/img1.jpg" alt="" className=" h-[350px] rounded-md" />
+            <img src="images/img1.jpg" alt="" className=" h-[350px] rounded-md border-4 border-[#f4382d]" />
        
         </div>
       </div>
