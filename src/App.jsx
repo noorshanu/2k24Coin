@@ -42,7 +42,7 @@ function App() {
           <Roadmap />
         </div>
 
-         <div className="mb-14 lg:mb-20" id="tokenomics">
+         <div className="mb-14 lg:my-20" id="tokenomics">
           <Tokenomics />
         </div>
         {/*

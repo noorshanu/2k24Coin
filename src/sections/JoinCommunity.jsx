@@ -62,7 +62,7 @@ function JoinCommunity() {
 
         <div className="flex  items-center justify-center ">
           <p className="text-center text-sm  font-bold">
-            All rights reserved | by  2023-24
+            All rights reserved | by  2024-25
           </p>
         </div>
       </div>
