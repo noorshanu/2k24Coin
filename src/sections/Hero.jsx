@@ -32,12 +32,12 @@ function Hero() {
             Happy New Year!
           </h1>
           <div className="mb-10">
-            <button className="bg-[#ffeeb9] hover:bg-[#000] text-black hover:text-white font-bold py-2 px-4 mr-4 rounded">
+            <a   href="https://www.dextools.io/app/en/ether/pair-explorer/0x50cefb561df9030acac46c6c23840633c10be7e8"  target="_target" className="bg-[#ffeeb9] hover:bg-[#000] text-black hover:text-white font-bold py-2 px-4 mr-4 rounded">
               Buy Now
-            </button>
-            <button className="bg-[#ffeeb9] hover:bg-[#000] text-black hover:text-white font-bold py-2 px-4 rounded">
+            </a>
+            <a href="https://t.me/nekocoin2k24"  target="_target" className="bg-[#ffeeb9] hover:bg-[#000] text-black hover:text-white font-bold py-2 px-4 rounded">
               Join Us
-            </button>
+            </a>
           </div>
         </div>
       </div>

@@ -62,6 +62,7 @@ function Navbar() {
               Team
             </a>
             
+            
           </div>
         </div>
       </nav>
