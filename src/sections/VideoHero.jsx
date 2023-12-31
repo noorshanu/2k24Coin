@@ -26,7 +26,7 @@ function VideoHero() {
           alt=""
           className="floating  absolute top-4 sm:-top-[56%] right-[10%] w-auto h-[120px] "
         />
-        <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold mb-6">
+        <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold mb-6 font-onep">
           Happy New Year!
         </h1>
         <div className="mb-10">

@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "dream";
-  src: url("/fonts/bongo.ttf");
+  font-family: "onep";
+  src: url("/fonts/onep.ttf");
 }
 
 .lh-1 {
