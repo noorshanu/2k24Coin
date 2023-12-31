@@ -3,7 +3,7 @@ import Title from "components/Title";
 
 function Team() {
   return (
-    <section className="relative z-10 bg-[#ffeeb9] py-4  my-4">
+    <section className="relative z-10 bg-[#ffeeb9] py-4  my-4" id="team">
       <div className="container-wrapper mb-14">
         <Title className="text-center text-[#000000] font-bold mb-10 pt-8">
           Meet Team
