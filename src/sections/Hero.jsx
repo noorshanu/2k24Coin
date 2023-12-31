@@ -9,7 +9,7 @@ function Hero() {
             <img
               src="images/star.png"
               alt=""
-              className="floating  absolute top-[20%] sm:-top-[58%] left-3 sm:left-[10%] w-auto h-[120px] "
+              className="floating  absolute -top-[40%] sm:-top-[58%] left-3 sm:left-[10%] w-auto h-14 sm:h-[120px] "
             />
           </a>
 
@@ -17,7 +17,7 @@ function Hero() {
             <img
               src="images/star3.png"
               alt=""
-              className="floating  absolute top-[20%] sm:-top-[58%] left-3 sm:left-[45%] w-auto h-[120px] "
+              className="floating  absolute -top-[40%] sm:-top-[58%] left-[35%] sm:left-[45%] w-auto h-14 sm:h-[120px] "
             />
           </a>
 
@@ -25,7 +25,7 @@ function Hero() {
             <img
               src="images/star2.png"
               alt=""
-              className="floating  absolute top-4 sm:-top-[56%] right-[10%] w-auto h-[120px] "
+              className="floating  absolute -top-[40%] sm:-top-[56%] right-[10%] w-auto h-14 sm:h-[120px] "
             />
           </a>
           <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold mb-6 font-onep">
