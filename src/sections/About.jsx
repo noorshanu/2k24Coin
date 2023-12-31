@@ -13,7 +13,7 @@ function About() {
       <div className="flex justify-evenly flex-col sm:flex-row">
       
        
-          <img src="images/img2.jpg" alt="" className=" h-[350px] rounded-md border-4 border-[#f4382d]" />
+          <img src="images/cat.JPG" alt="" className=" h-[350px] rounded-md border-4 border-[#f4382d]" />
 
           <div>
           <p className=" max-w-xl">
