@@ -21,20 +21,14 @@ function Navbar() {
             >
               Home
             </Link>
-            <Link
-              to="/"
-              onClick={() => setSidebarOpen(false)}
+            <a
+              href="#about"
+             
               className="cursor-pointer text-sm xl:text-base"
             >
              About
-            </Link>
-            {/* <Link
-              to="#"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              WHITEPAPER
-            </Link> */}
+            </a>
+          
           </div>
 
           <div>
@@ -53,27 +47,21 @@ function Navbar() {
           </button>
 
           <div className="items-center justify-evenly text-base font-medium text-black hidden lg:flex">
-            <Link
-              to="roadmap"
+            <a
+              href="#token"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
               Tokenomics
-            </Link>
-            <Link
-              to="roadmap"
+            </a>
+            <a
+              href="#team"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
               Team
-            </Link>
-            {/* <Link
-              to="tokenomics"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
-            >
-              TOKENOMICS
-            </Link> */}
+            </a>
+            
           </div>
         </div>
       </nav>
@@ -97,7 +85,7 @@ function Navbar() {
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
-           BUY NOW
+          Home
           </Link>
           {/* <Link
             to="#"
@@ -106,13 +94,13 @@ function Navbar() {
           >
             WHITEPAPER
           </Link> */}
-          <Link
-            to="roadmap"
+          <a
+          href="#about"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
-            ROADMAP
-          </Link>
+            About
+          </a>
           {/* <Link
             to="tokenomics"
             onClick={() => setSidebarOpen(false)}

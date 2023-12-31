@@ -5,7 +5,7 @@ function Hero() {
       
 
         <div className="relative z-[9999] text-center text-white mt-[15%]">
-          <a href="">
+          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x50cefb561df9030acac46c6c23840633c10be7e8" target="_blank">
             <img
               src="images/star.png"
               alt=""
