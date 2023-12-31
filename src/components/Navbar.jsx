@@ -87,13 +87,7 @@ function Navbar() {
           >
           Home
           </Link>
-          {/* <Link
-            to="#"
-            onClick={() => setSidebarOpen(false)}
-            className="cursor-pointer text-sm xl:text-base"
-          >
-            WHITEPAPER
-          </Link> */}
+         
           <a
           href="#about"
             onClick={() => setSidebarOpen(false)}
@@ -101,13 +95,22 @@ function Navbar() {
           >
             About
           </a>
-          {/* <Link
-            to="tokenomics"
+
+          <a
+          href="#token"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
-            TOKENOMICS
-          </Link> */}
+         Tokenomics
+          </a>
+          <a
+          href="#team"
+            onClick={() => setSidebarOpen(false)}
+            className="cursor-pointer text-sm xl:text-base"
+          >
+         Team
+          </a>
+        
         </div>
       </div>
 

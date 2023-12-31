@@ -2,7 +2,7 @@ import Title from "components/Title";
 
 function About() {
   return (
-    <section className="relative z-10  py-4 " id="about">
+    <section className="relative  py-4 " id="about">
     <div className="container-wrapper mb-14">
       <Title className="text-center text-[#000000] font-bold mb-10 pt-8">
         About Us
