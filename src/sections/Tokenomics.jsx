@@ -8,39 +8,38 @@ function Tokenomics() {
      data-aos-easing="ease-in-sine">Tokenomics</Title>
      <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
      <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
-            <p className=" uppercase">Buy Tax = 0%</p>
+            <p className=" uppercase">Buy Tax = 2.024%</p>
             </div> 
 
             <div className="bg-[#ffcbdf] w-full my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-              <p className=" uppercase">Sale tax = 3%</p>
+              <p className=" uppercase">Sale tax = 2.024%</p>
 
             </div>
      </div>
 
-      <div className="grid sm:grid-cols-2 gap-10 items-center">
-        <img src="/images/tokenomics-left.png" className="w-full" alt=""  data-aos="fade-right"
-     data-aos-offset="300" data-aos-duration="1500" 
-     data-aos-easing="ease-in-sine"/>
-        <div className="" data-aos="fade-left"
-     data-aos-offset="300" data-aos-duration="1500" 
-     data-aos-easing="ease-in-sine">
-       <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-            <p className=" uppercase">Presale = 45%</p>
+     <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
+     <div className="bg-[#dbffc6] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
+            <p className=" uppercase">Supply = 2 024 000 000 Neko</p>
             </div> 
-          <div className="bg-[#dbffc6] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-            <p className=" uppercase">Liquidity = 22.5%</p>
-            </div> 
-            <div className="bg-[#e9cdff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-              <p className=" uppercase">CEX & Partnerships = 8%</p>
-            </div>
 
-            <div className="bg-[#ffcbdf] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-              <p className=" uppercase">Burn = 24%</p>
+            <div className="bg-[#e9cdff] w-full my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+              <p className=" uppercase">Team = 20%</p>
 
             </div>
+     </div>
 
-        </div>
-      </div>
+     <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
+     <div className="bg-[#e9cdff] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
+            <p className=" uppercase">Liquidity  = Locked</p>
+            </div> 
+
+            <div className="bg-[#ffcbdf] w-full my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+              <p className=" uppercase">Contract = renounced</p>
+
+            </div>
+     </div>
+
+   
     </section>
   );
 }
