@@ -19,7 +19,14 @@ function Navbar() {
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              BUY NOW
+              Home
+            </Link>
+            <Link
+              to="/"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+             About
             </Link>
             {/* <Link
               to="#"
@@ -51,7 +58,14 @@ function Navbar() {
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              ROADMAP
+              Tokenomics
+            </Link>
+            <Link
+              to="roadmap"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+              Team
             </Link>
             {/* <Link
               to="tokenomics"

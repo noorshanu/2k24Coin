@@ -325,7 +325,7 @@ transform: scale(0.65);
 }
 
 .bg-main{
-  background-image: url('../public/images/hero-main.jpeg');
+  background-image: url('../public/images/hero-main.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
